@@ -2,15 +2,14 @@
 
   <title>{{ .Title }} | Burkina Faso</title>
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+  {{ $css := resources.Get "css/main.css" | toCSS | postCSS | minify | fingerprint }}
+  
+	<link href="{{ $css.RelPermalink }}" rel="stylesheet">
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <base href="{{ if getenv "CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT")) (getenv "URL") (getenv "DEPLOY_PRIME_URL") }}{{ else }}{{ $.Site.BaseURL }}{{ end }}">
+  <base href="{{ $.Site.BaseURL }}">
 	<meta name="Description" content=" {{.Title}} | L'AJEEA est une association aidant les enfants et adolescents au Burkina Faso">
 
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
@@ -29,7 +28,4 @@
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="/img/Photo-random.jpg">
 
-  {{ if .IsHome }}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {{ end }}
 </head>
