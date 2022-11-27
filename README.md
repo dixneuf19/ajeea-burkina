@@ -9,3 +9,9 @@ Install [`hugo`](https://gohugo.io/getting-started/installing/) and NodeJS.
 Install the dependencies with `npm install`
 
 Then launch the development server with `hugo server`.
+
+## Add a post
+
+To add a post, you need to create a new file in the `content/posts` folder.
+
+Add your optimized images in the `static/img` folder.
