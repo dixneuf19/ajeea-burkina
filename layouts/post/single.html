@@ -9,6 +9,11 @@
       <p>{{ .Description }}</p>
       {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
       {{ .Content }}
+      {{ with .Params.cta }}
+      <div class="tc">
+        <a href="{{ .href }}" class="btn raise">{{ .text }}</a>
+      </div>
+      {{ end }}
     </div>
   </div>
 {{ end }}
