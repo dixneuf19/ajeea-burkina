@@ -4,6 +4,9 @@ date: 2024-11-25T08:00:00.000Z
 description: >+
     L'AJEEA célèbre la solidarité et l'entraide communautaire lors de la 4ème édition de la Journée de Solidarité pour les Enfants et Adolescents à Guiba.
 image: /img/2024-journee-solidarite-banderole.jpeg
+cta:
+    text: JE FAIS UN DON
+    link: https://donate.action-education.org/site/~mon-don
 ---
 
 Le 24 novembre 2024, la commune de Guiba, située dans la province de Zounweogo, région du Centre-Sud, a été le théâtre d'un événement marquant : la 4ème édition de la Journée de Solidarité pour les Enfants et Adolescents. Organisée sous le thème "Entraide communautaire, facteur de résilience", cette journée a rassemblé des centaines de participants venus de toute la région pour célébrer l'importance de la solidarité et de l'entraide au sein des communautés.
