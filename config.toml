@@ -1,3 +1,4 @@
 baseURL = 'https://www.ajeea-burkina.org/'
 languageCode = 'fr-fr'
 title = 'AJEEA Burkina'
+enableRobotsTXT = true
