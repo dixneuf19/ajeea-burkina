@@ -19,7 +19,7 @@ Dons aux enfants, danses et discours des officiels ont rythmé cette édition 20
 
 > "Aujourd'hui, nous nous réunissons pour célébrer la Journée de Solidarité des Enfants et Adolescents. C'est un jour spécial pour nous tous car nous reconnaissons l'importance de la solidarité et de l'amitié envers les enfants et les adolescents du monde entier."
 
-![Enfants et adolescents lors de la JSE 2025](/img/2025-jse-gaongo-enfants.jpeg)
+![Enfants et adolescents lors de la JSE 2025](/img/2025-journee-solidarite-danse.jpeg)
 
 ## Un Appel à l'Engagement Collectif
 
