@@ -11,8 +11,6 @@ cta:
 
 À Gaongo, ce dimanche 23 novembre 2025, c'était la célébration de la solidarité avec les enfants et les adolescents à l'occasion de la 5ème édition de la Journée de Solidarité avec les Enfants (JSE), organisée par l'Association Jeunesse pour l'Épanouissement des Enfants et Adolescents (AJEEA).
 
-![Banderole de la JSE 2025 à Gaongo](/img/2025-jse-gaongo-banderole.jpeg)
-
 ## Une Célébration de la Solidarité
 
 Dons aux enfants, danses et discours des officiels ont rythmé cette édition 2025. Le promoteur Norbert Abem a ouvert les festivités en rappelant l'importance de cette journée :
@@ -31,7 +29,7 @@ Le président Norbert Abem a poursuivi avec un message fort d'appel à l'action 
 
 Il a également souligné les différentes façons dont chacun peut contribuer : "Nous pouvons donner de notre temps et de notre énergie ; nous pouvons partager nos connaissances et compétences ; nous pouvons les écouter et les soutenir ; nous pouvons défendre leurs droits."
 
-![Norbert Abem lors de la JSE 2025](/img/2025-jse-gaongo-norbert.jpeg)
+![Les enfants lors de la JSE 2025](/img/2025-jse-gaongo-enfants.jpeg)
 
 ## Une Édition Couronnée de Succès
 
