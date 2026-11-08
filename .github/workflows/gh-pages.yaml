@@ -15,9 +15,9 @@ permissions:
   pages: write
   id-token: write
 
-# Allow one concurrent deployment
+# One run per ref, so Renovate branches stop cancelling each other
 concurrency:
-  group: "pages"
+  group: "pages-${{ github.ref }}"
   cancel-in-progress: true
 
 # Default to bash
